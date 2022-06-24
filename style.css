@@ -1,0 +1,44 @@
+a:link {text-decoration: none;color: #393939}
+a:visited {text-decoration: none;color: #393939}
+
+#alles {max-width: 900px; margin-left: auto; margin-right: auto;font-family: "Montserrat Light", "Calibri Light (Überschriften)", sans-serif;letter-spacing: 1px;
+}
+
+#name {text-align: center;font-size: 250%; color: #393939; padding-top: 200px;text-decoration: underline; letter-spacing: 10px; }
+#name2 {text-align: center;font-size: 170%; color: #393939; letter-spacing: 5px; font-family: "Montserrat Hairline"; padding-top: 10px}
+#navigation {text-align: center;font-size: 100%;letter-spacing: 3px; padding-bottom: 15px; word-spacing: 5px; padding-top: 70px; padding-top: 70px}
+#navigation a:hover {text-decoration: underline}
+
+
+#bild {text-align: center; padding-top: 20px;padding-bottom: 5px;  }
+#bild img {filter: grayscale(100%); padding: 12px; transition: 1s}
+#bild img:hover{filter: grayscale(0%); transform: scale(1.15)}
+
+
+#footer {text-align: center;padding-top: 600px; font-size: 70%; bottom: 0px}
+#footer a {padding: 5px}
+#footer2 {text-align: center;padding-top: 200px; font-size: 70%; bottom: 0px}
+#footer2 a {padding: 5px}
+
+
+#namek {text-align: center;font-size: 250%; color: #393939; padding-top: 50px;text-decoration: underline; letter-spacing: 10px; }
+#namek2 {text-align: center;font-size: 170%; color: #393939; letter-spacing: 5px; font-family: "Montserrat Hairline"; padding-top: 10px}
+#navigationk {text-align: center;font-size: 100%;letter-spacing: 3px; padding-bottom: 15px; word-spacing: 5px; padding-top: 70px}
+#kontakt {text-align: center;font-size: 120%; color: #393939; letter-spacing: 1,5px; font-family: "Montserrat Light"; padding-top: 25px; font-family: "Montserrat Hairline"}
+
+#LV {text-align: center; color: #393939;  font-weight: bold}
+#LA {text-align: center; color: #393939; padding-top: 50px; font-weight: bold}
+
+
+#LB1 {text-align: center; color: #393939; }
+#LB2 {text-align: center; color: #393939; }
+#LB3 {text-align: center; color: #393939; }
+#LBT1 {text-align: center; color: #393939; font-weight: bold; font-size: 125%;}
+#LBT2 {text-align: center; color: #393939;font-weight: bold; font-size: 125%;}
+
+#LB {text-align: center;font-size: 120%; color: #393939; letter-spacing: 1,5px; font-family: "Montserrat Light"; padding-top: 25px; font-family: "Montserrat Hairline"; text-align: justify}
+
+#I {text-align: center;font-size: 120%; color: #393939; letter-spacing: 1,5px; font-family: "Montserrat Light"; padding-top: 25px; font-family: "Montserrat Hairline"; text-align: justify}
+#IM {text-align: center; color: #393939; }
+#IU1 {text-align: center; color: #393939; font-weight: bold; font-size: 125%;}
+#IU2 {text-align: center; color: #393939; font-weight: bold; font-size: 90%;}
